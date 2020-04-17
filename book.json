@@ -18,7 +18,7 @@
     "splitter",
     "todo",
     "copy-code-button",
-    "expandable-chapters-small",
+    "expandable-chapters-small"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -29,12 +29,12 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook"
+      "shortName": "gitbook-template"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "wangh0117",
-        "repo": "gitbook",
+        "user": "riskers",
+        "repo": "gitbook-template",
         "type": "star",
         "size": "small",
         "count": true
@@ -58,12 +58,13 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "By [riskers](https://github.com/riskers)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "copyright": "By [wangh0117](https://github.com/wangh0117)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
       "markdown": true,
       "update_label": "此页面修订于：",
       "update_format": "YYYY-MM-DD HH:mm:ss"
     },
     "bibtex-indexed-cite": {
       "path": "/"
+    }
   }
 }
