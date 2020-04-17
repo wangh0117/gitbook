@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/wangh0117/gitbook-template.git # 设置 github 地址
+    - REF=github.com/wangh0117/gitbook.git # 设置 github 地址
